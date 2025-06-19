@@ -10,7 +10,7 @@ readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.8"
 maintainers = [
-    { name = "Docker Inc.", email = "no-reply@docker.com" },
+    { name = "Gordon MacPherson", email = "gordon@gordonite.tech" },
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
