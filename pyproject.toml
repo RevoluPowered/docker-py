@@ -3,7 +3,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "docker-custom"
+name = "docker_custom"
 dynamic = ["version"]
 description = "A Python library for the Docker Engine API."
 readme = "README.md"
