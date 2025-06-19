@@ -3,9 +3,9 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "docker_custom"
+name = "docker_custom_unofficial"
 dynamic = ["version"]
-description = "A Python library for the Docker Engine API."
+description = "A Python library for the Docker Engine API. (with a modification to make ssh work again... as no clear configuration path for SSH was added for the new 'security' patches)"
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.8"
