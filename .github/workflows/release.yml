@@ -22,7 +22,7 @@ jobs:
         env:
           # This is also supported by Hatch; see
           # https://github.com/ofek/hatch-vcs#version-source-environment-variables
-          SETUPTOOLS_SCM_PRETEND_VERSION: 1.0.0
+          SETUPTOOLS_SCM_PRETEND_VERSION: 1.0.1
       - name: Publish to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
