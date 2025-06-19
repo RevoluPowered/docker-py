@@ -75,4 +75,4 @@ You can manage images:
 
 [Read the full documentation](https://docker-py.readthedocs.io) to see everything you can do.
 
-Modified to bypass broken SSH logic in the codebase.
+Modified to bypass broken SSH logic in the codebase..
